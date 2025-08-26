@@ -13,7 +13,7 @@ Developmental disability,Mental or physical problems that begin before adulthood
 Mental impairment,A person's mind is not working properly such as Alzheimer's.
 Prevent,To stop something from happening.
 Demonstrate,To show.
-Exempt / Exemption,Not required.
+Exempt or Exemption,Not required.
 Residence,Where you live.
 Physical address,Address of where you live.
 Mailing address,Address of where you receive your mail.
@@ -24,7 +24,7 @@ Single,Never married.
 Married,Having a husband or wife.
 Divorced,Married in the past but not anymore.
 Widowed,Your spouse died and you have not remarried.
-Separated,Still married but not living together. (Usually in the process of getting a divorce.)
+Separated,Still married but not living together (usually in the process of getting a divorce.)
 Marriage annulled,Marriage that is declared invalid.
 Previous marriage,The marriage before the current marriage.
 Prior spouse,Ex-husband or ex-wife.
@@ -86,7 +86,7 @@ Paramilitary unit,A group that acts like the military but is not official.
 Self-defense unit,A group that protects a community using weapons.
 Vigilante unit,A group that acts like the police but is not official.
 Rebel group,A group that fights a government.
-Guerilla group,A group that uses weapons to fight the military, police or government.
+Guerilla group,A group that uses weapons to fight the military police or government.
 Detain,To force to stay.
 Prison or Jail,A place where the police keep people who have been arrested.
 Prison camp,A camp to keep prisoners of war or political prisoners.
@@ -166,4 +166,5 @@ Perform noncombatant services,Do work that is not fighting in a war.
 Example of noncombatant services,Nursing, cooking, translation.
 Civilian,Anyone who is not in the military.
 Perform work of national importance under civilian direction,Do non-military work during a national crisis.
+
 Example of work of national importance under civilian direction,Helping the Red Cross after a natural disaster.
